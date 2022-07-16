@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>94568229148-tlqscd82eivr6t4k4k4iqmai9eqi7mp0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.94568229148-tlqscd82eivr6t4k4k4iqmai9eqi7mp0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8YYcPFnJnRXnSuVghSSsSoYC_pL6cbq4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>94568229148</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SidneyOkine.com.E-commerce</string>
+	<key>PROJECT_ID</key>
+	<string>ecommerce-sidneyokine</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecommerce-sidneyokine.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:94568229148:ios:60ab2f8911de534a9272d9</string>
+</dict>
+</plist>
